@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "An agentic AI application that allows you to chat with your papers and gather also information from papers on ArXiv and on PubMed"
 requires-python = ">=3.10"
 # clarify the control flow
+# avoid re-reading the config on every call
